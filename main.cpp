@@ -88,7 +88,7 @@ int main() {
         cout << "Welcome to the Library Management System!" << endl;
         cout << "1. Add Book" << endl;
         cout << "2. Search Book by ID" << endl;
-        cout << "3. Search Book by Title" << endl;
+        cout << "3. Search Book by Title" << endl; 
         cout << "4. Issue Book" << endl;
         cout << "5. Return Book" << endl;
         cout << "6. List All Books" << endl;
