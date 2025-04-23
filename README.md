@@ -31,18 +31,6 @@ This is a **Library Management System** 📚 that I developed using C++. It allo
 - **User Interaction** 💬: The system is designed with simplicity in mind. The user interacts with the system through a command-line interface (CLI), where they can select options from a menu using numeric input.
 - **Status Management** 📌: Each book has an `isIssued` flag that I used to track its status, making it clear whether it is available or issued. If a book is issued, I also track the name of the student to whom it is issued.
 
-## 📦 Repo Stats
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Asingh-2430&repo=Library-Management-System&theme=default)
-
----
-
-## 📸 Author
-
-<img src="https://github.com/Asingh-2430.png" width="100" alt="Avjot Singh GitHub profile pic"/>
-
-**Avjot Singh**  
-[GitHub Profile](https://github.com/Asingh-2430)
 
 ---
 This system serves as a solid foundation for managing a small library 🏫 and could be further enhanced with features such as overdue book tracking ⏰, generating reports 📊, or even a graphical user interface (GUI) for easier use.
